@@ -1,0 +1,32 @@
+
+#head {
+    text-align: center;
+    font-size: 45px;
+    padding: 20px;
+    margin-top: 3px;
+    font-family: cursive;
+}
+
+
+body{
+
+    background: url('../');
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color:white;
+
+}
+
+
+#timeremaining, h2{
+
+    padding-bottom: 15px;
+    border-block-start-color: pink;
+    font-size: 30px;
+
+}
+
+.container{
+    
+    text-align: center;
+}
